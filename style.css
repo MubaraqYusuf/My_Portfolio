@@ -92,7 +92,10 @@
     font-size: 3rem;
     margin-bottom: 1rem;
   }
-  
+  /*Span */
+  .span{
+      color: #fff;
+  }
   /* Button */
   .btn {
     display: inline-block;
