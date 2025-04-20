@@ -93,9 +93,9 @@
     margin-bottom: 1rem;
   }
   /*Span */
-  .span{
+  .container span{
       color: #fff;
-  }
+  } 
   /* Button */
   .btn {
     display: inline-block;
